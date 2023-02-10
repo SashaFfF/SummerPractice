@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pract/picture2.png</file>
+        <file>pract/Дизайн без названия (2).png</file>
+        <file>pract/Дизайн без названия (3).png</file>
+        <file>pract/Дизайн без названия (4).png</file>
+        <file>pract/Дизайн без названия (5).png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pract/background.png</file>
+        <file>pract/backgroundTest.png</file>
+        <file>pract/backgroundTest2.png</file>
+        <file>pract/backgroundTest3.png</file>
+        <file>pract/backgroundTest4.png</file>
+        <file>pract/backgroundTest5.png</file>
+        <file>pract/image.png</file>
+        <file>pract/backgroundGoal.png</file>
+        <file>pract/backgroundRecommendation(1).png</file>
+        <file>pract/backgroundRecommendation.png</file>
+    </qresource>
+</RCC>
